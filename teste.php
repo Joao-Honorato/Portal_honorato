@@ -12,7 +12,7 @@
 <body>
     <form action="form2.php" method = "POST">
     <div id = "nomeanuncio" name = "blocoanuncio">
-    Nome do anúncio <input type=text name= "nomeAnuncio" id="nomeAnuncio"><br>
+    Nome dos anúncios <input type=text name= "nomeAnuncio" id="nomeAnuncio"><br>
         <input type="submit" name = "submit">
     </div>
     </form>
